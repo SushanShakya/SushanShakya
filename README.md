@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="800" height="400">
+		<img src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="800" height="200">
 	<br>
 </div>
 
