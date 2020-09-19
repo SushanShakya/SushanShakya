@@ -6,8 +6,8 @@
 
 ## Flutter Developer
 
-- 🔭 I’m currently working on Developing a portfolio with Flutter Web
-- 🌱 I’m currently learning more on Flutter Framework
+- 🔭 I’m currently working on Improving myself as a Software Engineer
+- 🌱 I’m currently learning Kotlin Programming Language
 - 📫 How to reach me: sushaanshakya88@gmail.com
 - ⚡ Fun fact: Rive integration with flutter works with flutter web
 - 💬 Check out : https://portfolio-ab13a.firebaseapp.com/#/
