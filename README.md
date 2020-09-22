@@ -4,6 +4,8 @@
 	<br>
 </div>
 
+[![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Flutter Developer
 
 - 🔭 I’m currently working on Improving myself as a Software Engineer
