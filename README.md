@@ -5,7 +5,7 @@
 	<br>
 </div>
 -->
-[![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushanShakya)](https://github.com/anuraghazra/github-readme-stats)
+[![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushanShakya&hide=MakeFile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Flutter Developer
 
