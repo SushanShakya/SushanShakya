@@ -16,6 +16,10 @@
 - ⚡ Fun fact: Rive integration with flutter works with flutter web
 - 💬 Check out : https://portfolio-ab13a.firebaseapp.com/#/
 
+
+## Visitor's Count:
+![Visitor's Count](https://profile-counter.glitch.me/%7BSushanShakya%7D/count.svg)
+
 <!--
 **SushanShakya/SushanShakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
