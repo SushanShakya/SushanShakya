@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Test Driven Development
 - 📫 How to reach me: sushaanshakya88@gmail.com
 - ⚡ Fun fact: Rive integration with flutter works with flutter web
-- 💬 Check out : https://portfolio-ab13a.firebaseapp.com/#/
+- 💬 Check out : https://sushanshakya.github.io/
 
 
 ## Visitor's Count:
