@@ -11,7 +11,7 @@
 ## Flutter Developer
 
 - 🔭 I’m currently working on Improving myself as a Software Engineer
-- 🌱 I’m currently learning Test Driven Development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: sushaanshakya88@gmail.com
 - ⚡ Fun fact: Rive integration with flutter works with flutter web
 - 💬 Check out : https://sushanshakya.github.io/
