@@ -1,20 +1,36 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=300 />
+## About Me
+<img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
+<img src="https://img.shields.io/badge/-Sushan%20Shakya-black?style=social&logo=dart" width=300>
+<img src="https://img.shields.io/badge/-Develops%20Mobile%20Apps-black?style=flat&logo=android" width=300>
 <!-- <img align="left" src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200"> -->
-<img src="https://img.shields.io/badge/-Sushan%20Shakya-black?style=for-the-badge" width=400>
 
-<img src="https://img.shields.io/badge/-People%20who%20see%20reality%20as%20is%20are%20bound%20to%20extinct.-red?style=for-the-badge" width=400>
+## -
+## My Loves
+<img align="left" style="padding : 10px;" src="https://img.shields.io/badge/Android-black?style=plastic&logo=android" height=40>
+<img align="left" src="https://img.shields.io/badge/Dart-black?style=plastic&logo=dart&logoColor=white" height=40>
+<img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=40>
+<img align="left" src="https://img.shields.io/badge/Vim-black?style=plastic&logo=vim&logoColor=019733" height=40>
+<img src="https://img.shields.io/badge/VS%20Code-black?style=plastic&logo=visualstudiocode&logoColor=007ACC" height=40>
+<img align="left" src="https://img.shields.io/badge/Kotlin-black?style=plastic&logo=kotlin&logoColor=7F52FF" height=40>
+<img align="left" src="https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=white" height=40>
+<img align="left" src="https://img.shields.io/badge/Javascript-black?style=plastic&logo=javascript&logoColor=yellow" height=40>
+<img align="left" src="https://img.shields.io/badge/Firebase-black?style=plastic&logo=firebase&logoColor=FFCA28" height=40>
+<img src="https://img.shields.io/badge/Postgres-black?style=plastic&logo=postgresql&logoColor=007ACC" height=40>
 
+<!-- [![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
+ -->
+ ## Cumulated Work
+<img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=SushanShakya&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushanShakya&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
 
-[![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
-
-## Flutter Developer
+<!-- ## Flutter Developer
 
 - 🔭 I’m currently working on Improving myself as a Software Engineer
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: sushaanshakya88@gmail.com
 - ⚡ Fun fact: Rive integration with flutter works with flutter web
 - 💬 Check out : https://sushanshakya.github.io/
-
+ -->
 
 ## Visitor's Count:
 ![Visitor's Count](https://profile-counter.glitch.me/%7BSushanShakya%7D/count.svg)
