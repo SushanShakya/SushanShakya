@@ -1,9 +1,4 @@
-
-<div align="center">
-	<br>
-		<img src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200">
-	<br>
-</div>
+<img align="left" src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=300 />
 
 
