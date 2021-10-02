@@ -11,7 +11,6 @@
 <img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=40>
 <img align="left" src="https://img.shields.io/badge/Vim-black?style=plastic&logo=vim&logoColor=019733" height=40>
 <img src="https://img.shields.io/badge/VS%20Code-black?style=plastic&logo=visualstudiocode&logoColor=007ACC" height=40>
-<img align="left" src="https://img.shields.io/badge/Kotlin-black?style=plastic&logo=kotlin&logoColor=7F52FF" height=40>
 <img align="left" src="https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=white" height=40>
 <img align="left" src="https://img.shields.io/badge/Javascript-black?style=plastic&logo=javascript&logoColor=yellow" height=40>
 <img align="left" src="https://img.shields.io/badge/Firebase-black?style=plastic&logo=firebase&logoColor=FFCA28" height=40>
