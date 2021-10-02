@@ -1,5 +1,8 @@
-<img align="left" src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=300 />
+<img align="left" src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200">
+<img src="https://img.shields.io/badge/-Sushan%20Shakya-black?style=for-the-badge" width=400>
+
+<img src="https://img.shields.io/badge/-People%20who%20see%20reality%20as%20is%20are%20bound%20to%20extinct.-red?style=for-the-badge" width=400>
 
 
 [![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
