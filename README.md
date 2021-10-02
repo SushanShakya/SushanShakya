@@ -1,9 +1,10 @@
 
-<div align="left">
+<div align="center">
 	<br>
 		<img src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200">
 	<br>
 </div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=300 />
 
 
 [![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
