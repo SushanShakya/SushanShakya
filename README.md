@@ -6,7 +6,7 @@
 <!-- <img align="left" src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200"> -->
 
 ## -
-## My Loves
+## Loves
 <img align="left" style="padding : 10px;" src="https://img.shields.io/badge/Android-black?style=plastic&logo=android" height=40>
 <img align="left" src="https://img.shields.io/badge/Dart-black?style=plastic&logo=dart&logoColor=white" height=40>
 <img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=40>
