@@ -3,15 +3,18 @@
 <table>
  <tr>
   <td align="center" width="300">
-  <img alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
+   <img alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
+  </td>
+  <td align="center" width="300">
+   <h1> Sushan Shakya </h1>
+   <h4> Magician | Dev | Learner </h4>
   </td>
  </tr>
 </table>
 
+> This Guy is 100% Geek and loves to Code.
 
-> Code is Life !!!!
-
-### 🔨 Tools
+## 🔨 Tools
 <table>
   <tr>
     <td align="center" width="96">
@@ -92,7 +95,7 @@
   </tr>
 </table>
 
-### 📊 Visible Work
+## 📊 Visible Work
 
 <h3 align="center">
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=noushadBug&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="NoushadBug"/>
