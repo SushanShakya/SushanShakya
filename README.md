@@ -1,51 +1,109 @@
 <!-- Idea for the icons thanks to Regmi C. Mahesh (https://github.com/regmicmahesh) -->
-## About Me
-<img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
-<img src="https://img.shields.io/badge/-Sushan%20Shakya-black?style=social&logo=dart" width=300>
-<img src="https://img.shields.io/badge/-Develops%20Mobile%20Apps-black?style=flat&logo=android" width=300>
-<!-- <img align="left" src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200"> -->
+## 🎧 This is Me ♪♪♪
+<table>
+ <tr>
+  <td align="center" width="300">
+  <img alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
+  </td>
+ </tr>
+</table>
 
-## -
-## Loves
-<img align="left" style="padding : 10px;" src="https://img.shields.io/badge/Android-black?style=plastic&logo=android" height=40>
-<img align="left" src="https://img.shields.io/badge/Dart-black?style=plastic&logo=dart&logoColor=white" height=40>
-<img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=40>
-<img align="left" src="https://img.shields.io/badge/Vim-black?style=plastic&logo=vim&logoColor=019733" height=40>
-<img src="https://img.shields.io/badge/VS%20Code-black?style=plastic&logo=visualstudiocode&logoColor=007ACC" height=40>
-<img align="left" src="https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=white" height=40>
-<img align="left" src="https://img.shields.io/badge/Javascript-black?style=plastic&logo=javascript&logoColor=yellow" height=40>
-<img align="left" src="https://img.shields.io/badge/Firebase-black?style=plastic&logo=firebase&logoColor=FFCA28" height=40>
-<img src="https://img.shields.io/badge/Postgres-black?style=plastic&logo=postgresql&logoColor=007ACC" height=40>
 
-<!-- [![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
- -->
- ## Cumulated Work
-<img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=SushanShakya&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushanShakya&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
+> Code is Life !!!!
 
-<!-- ## Flutter Developer
+### 🔨 Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+      </a>
+      <br>Editor
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      </a>
+      <br>JS
+    </td>    
+    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      </a>
+      <br>VS&nbsp;Code
+    </td>
+    <td align="center" width="96">
+      <a href="#sushan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      </a>
+      <br>Postgres
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on Improving myself as a Software Engineer
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: sushaanshakya88@gmail.com
-- ⚡ Fun fact: Rive integration with flutter works with flutter web
-- 💬 Check out : https://sushanshakya.github.io/
- -->
+### 📊 Visible Work
+
+<h3 align="center">
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=noushadBug&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="NoushadBug"/>
+</h3>
+
+| | | 
+| :--: | :--: |
+| | |
+| [![Sushan's github stats](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)](https://github-readme-stats.vercel.app/api?username=SushanShakya&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160" alt="NoushadBug"/></a>
+
+
 
 ## Visitor's Count:
 ![Visitor's Count](https://profile-counter.glitch.me/%7BSushanShakya%7D/count.svg)
-
-<!--
-**SushanShakya/SushanShakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
